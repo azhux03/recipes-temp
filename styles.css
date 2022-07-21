@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(205, 244, 241);
+}
+
+.logo img{
+    width: 100px;
+    height: 100px
+}
+
+.container {
+    text-align: center;
+}
+
+.image{
+    width: 300px;
+    height:420px;
+    margin: 50px;
+    
+}
+
+.caption{
+    display: block;
+}
+
+.page {
+    text-align: left;
+}
